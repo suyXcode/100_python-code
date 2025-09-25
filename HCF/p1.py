@@ -14,8 +14,9 @@
 # Note down the highest number that divides both num1 & num2
 # If i satisfies (num1 % i == 0 and num2 % i == 0) then new value of HCF is i
 # Print value of HCF
-num1 = 36
-num2 = 60
+num1 = int(input("Enter the Number :"))
+num2 = int(input("Enter the Number :"))
+
 hcf = 1
 
 for i in range(1, min(num1, num2)):
