@@ -8,6 +8,22 @@ The goal of this repository is to help students and developers **practice coding
 
 ## 📂 Folder Structure
 
+Top-100-Codes/
+│
+├── Prime_Numbers/
+│ ├── prime_number.py
+│ ├── prime_in_range.py
+│
+├── Palindrome_Numbers/
+│ ├── palindrome_number.py
+│ ├── palindrome_string.py
+│
+├──Factorial/
+│ ├── factorial.py
+│
+│
+└── ...
+
 ---
 
 ## 📝 Problem Categories
