@@ -16,3 +16,4 @@ def getGCD(a, b):
 num1 = 36
 num2 = 60
 
+print("GCD of", num1, "and", num2, "is", getGCD(num1, num2))
