@@ -16,6 +16,7 @@ Algorithm
 
 
 
+
 def findGCD(num1, num2):
     
     # Everything divides 0
