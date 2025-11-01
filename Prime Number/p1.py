@@ -37,6 +37,7 @@ Algorithm to Check if a Number is Prime
 num = int(input("Enter The int num:"))
 if num <= 1:
     print(f"{num} is not a prime number")
+       
 else:
     i = 2
     is_prime = True
@@ -45,6 +46,7 @@ else:
             is_prime = False
             break
         i += 1
+           
 if is_prime:
     print(f"{num} is a prime number")
 else:
