@@ -10,6 +10,7 @@ For a given integer variable number we perform the following,
         Break down the Nunber using divide operator.
         Print the reverse variable.   
 '''
+
 num = int(input("Enter a number: "))
 temp = num
 reverse = 0
