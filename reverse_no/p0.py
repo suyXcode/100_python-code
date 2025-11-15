@@ -10,7 +10,6 @@ For a given integer variable number we perform the following,
         Break down the Nunber using divide operator.
         Print the reverse variable.   
 '''
-
 num = int(input("Enter a number: "))
 temp = num
 reverse = 0
@@ -20,4 +19,4 @@ while num > 0:
     num = num // 10
 
 print(f"Reversed Number: {reverse}")
-Fibonacci Series using a single variable
+
